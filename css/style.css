@@ -1,0 +1,90 @@
+.pagelogo{
+	max-width:200px;
+	margin-top: -13px;
+
+}
+
+.navbar-default .navbar-collapse {
+    padding-top: 40px;
+}
+header {
+    background-image: url(../img/header.jpg);
+}
+.sec01{
+	text-align:left;
+}
+
+.intro-fix {
+
+	  
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    line-height: 12px;
+    margin-bottom: 25px;
+}
+
+.navbar-default {
+    background-color: #222;
+    }
+.navbar-default .navbar-collapse {
+    padding-top: 10px;
+}
+.navbar-brand{
+	 padding:0px;
+}
+
+.jumbotron {
+    position: relative;
+    
+    height:300px;
+    width: 100%;
+    
+    background-size: cover;
+    overflow: hidden;
+}
+
+.bg01{
+	background: #000 url(../img/portfolio/ali03.png)  no-repeat center left;
+  background-size:55%;
+  color:#fff;
+	text-align:right;
+	padding:50px 80px;
+
+}
+
+.bg02{
+	background: #fff url(../img/portfolio/ali04.png) no-repeat center right ;
+  background-size:55%;
+  color:#000;
+	text-align:left;
+	padding:50px 80px;
+}
+.bg03{
+	background: #000 url(../img/portfolio/ali02.png) no-repeat center left;
+  background-size:55%;
+  color:#fff;
+	text-align:right;
+	padding:50px 80px;
+}
+.bg04{
+	background: #000 url(../img/portfolio/ali01.jpg) no-repeat center right;
+background-size:55%;
+color:#fff;
+	text-align:left;
+	padding:50px 80px;
+}
+
+@media (min-width: 768px){
+header .intro-text .intro-heading {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 75px;
+    line-height: 35px;
+    margin-bottom: 20px;
+}
+}
+
+
+
+
